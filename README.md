@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alee, try to become a front end engineer 👨‍💻🚀</div>  
   
   
-- ⚡ I'm still a college student and trying to find an internship job   
+- ⚡ I'm still a college student majoring in Computer Science
 
 
 - 🌱 I’m currently learning Javascript & React  

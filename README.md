@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alee, hope to become a Front-End Developer 👨‍💻🚀</div>  
   
   
-- ⚡ Still a college student majoring in Computer Science
+- ⚡ A college student majoring in Computer Science
 
 
 - 💻 Currently learning React & Typescript & Webpack
@@ -41,7 +41,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aleetsaiya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aleetsaiya&show_icons=true&theme=radical" align="center" /></div>
 <br />
 
 <!-- ---- -->

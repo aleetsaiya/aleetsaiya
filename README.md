@@ -42,6 +42,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aleetsaiya&show_icons=true&theme=radical" align="center" /></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleetsaiya&layout=compact)](https://github.com/aleetsaiya/github-readme-stats)
 <br />
 
 <!-- ---- -->

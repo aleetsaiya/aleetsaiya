@@ -1,8 +1,4 @@
 ## Hi there👋 I'm Alee
- 
-- 🚀 On the road to becoming a Frontend engineer.
-- ⚡ A college student majoring in Computer Science
-- 💻 Currently learning React & Typescript & Webpack
   
 ### Interest
 <div style="display: flex">

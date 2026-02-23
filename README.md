@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Sean. I like building for the web, writing code that’s clean and easy to maintain, and exploring new technologies ⚡️
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 <!--
 **aleetsaiya/aleetsaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
